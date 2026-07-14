@@ -31,9 +31,9 @@
 
 <div align="center">
   <h3>📊 SYSTEM STATUS</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niss54&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niss54&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E&v=1" alt="GitHub Streak" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Niss54&label=Profile%20Views&color=00E5FF&style=flat-square" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=Niss54&label=Profile%20Views&color=00E5FF&style=flat-square&v=1" alt="Profile Views" />
 </div>
 
 ---
