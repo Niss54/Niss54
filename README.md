@@ -39,6 +39,11 @@
 </div>
 
 ---
+<h2 align="center">🧠 LEETCODE STATUS</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/niss-985488?theme=dark&font=Nunito&ext=contest,heatmap" />
+</p>
 
 <div align="center">
   <h3>📡 CONNECT WITH THE SYSTEM</h3>
