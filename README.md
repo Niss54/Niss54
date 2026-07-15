@@ -33,7 +33,6 @@
   <h3>📊 SYSTEM STATUS</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niss54&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=00E6FF&text_color=FFFFFF&icon_color=00E6FF&hide_border=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niss54&theme=tokyonight&background=00000000&ring=00E6FF&fire=00E6FF&currStreakLabel=00E6FF&sideNumbers=FFFFFF&hide_border=true" height="150">
 </p>
 
   <br><br>
