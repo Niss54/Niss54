@@ -46,6 +46,9 @@
 </p>
 
 <div align="center">
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niss54&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
   <h3>📡 CONNECT WITH THE SYSTEM</h3>
   <a href="https://www.linkedin.com/in/niss-visuals/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.Nissh.info"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
