@@ -91,9 +91,16 @@
 ---
 <h2 align="center">🧠 LEETCODE STATUS</h2>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/niss-985488?theme=dark&font=Nunito&ext=contest,heatmap" />
-</p>
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/niss-985488?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/niss-985488/)
+
+<br/>
+
+### 🌿 GeeksforGeeks
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20My%20Profile-0d0d2b?style=for-the-badge&logo=geeksforgeeks&logoColor=a78bfa)](https://www.geeksforgeeks.org/profile/nishanv3l4)
+
+</div>
 
 <div align="center">
   <p align="center">
